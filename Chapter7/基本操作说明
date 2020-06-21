@@ -1,0 +1,3 @@
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup1.json
+带参数的get请求，后面必须跟参数匹配
+http://localhost:8888/getwithparam?name=郑可爱&age=24
