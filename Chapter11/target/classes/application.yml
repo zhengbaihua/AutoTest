@@ -19,3 +19,4 @@ mybatis:
   type-aliases-package: com.course.model
   mapper-locations:
     - mapper/*
+
